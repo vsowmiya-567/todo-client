@@ -1,0 +1,28 @@
+.homepage__body > h3{
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+}
+.homepage__inp{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.record{
+    color: white;
+    text-align: center;
+}
+.todo__getdata{
+    color:black;
+    text-align: center;
+    
+}
+.todo__getdata >h5{
+    width: max-content;
+    height: 30px;
+    background-color: white;
+    margin-left: 680px;    
+}
